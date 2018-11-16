@@ -1,0 +1,19 @@
+package com.lidi.cursomc.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.lidi.cursomc.domain.Categoria;
+import com.lidi.cursomc.repositories.CategoriaRepository;
+
+@Service
+public class CategoriaService {
+	
+	@Autowired
+	CategoriaRepository categoriaRepository;
+	public Categoria buscar(Integer id) {
+		Categoria obj = categoriaRepository.findOne(id);
+		return obj;
+	}
+
+}

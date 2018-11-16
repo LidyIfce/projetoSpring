@@ -1,0 +1,5 @@
+package com.lidi.cursomc.repositories;
+
+public class CategoriaRepository {
+
+}

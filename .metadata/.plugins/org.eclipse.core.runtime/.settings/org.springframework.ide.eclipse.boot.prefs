@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=cursomc
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=1.5.18.BUILD-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Estudo de caso Java para curso de Modelagem Conceitual com UML
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.lidi.cursomc
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=cursomc
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.lidi.cursomc
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.0.0-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
