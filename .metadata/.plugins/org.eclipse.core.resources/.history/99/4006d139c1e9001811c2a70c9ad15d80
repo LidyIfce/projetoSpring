@@ -1,0 +1,5 @@
+package com.lidi.cursomc.domain;
+
+public class Produto {
+
+}
