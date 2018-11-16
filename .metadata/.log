@@ -849,3 +849,9 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 !MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2018-11-16 13:35:31.279
 !MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 13:53:23.822
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-16 13:54:12.336
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
