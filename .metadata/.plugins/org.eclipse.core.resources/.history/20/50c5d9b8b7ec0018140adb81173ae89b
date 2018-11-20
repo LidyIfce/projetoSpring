@@ -1,0 +1,5 @@
+package com.lidi.cursomc.services.excepions;
+
+public class ObjectNotFoundException {
+
+}
