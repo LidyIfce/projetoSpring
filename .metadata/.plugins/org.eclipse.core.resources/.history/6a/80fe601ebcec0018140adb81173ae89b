@@ -1,0 +1,8 @@
+package com.lidi.cursomc.domain;
+
+public class Estado {
+	
+	private integer id;
+	private String nome;
+
+}

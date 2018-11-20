@@ -1,0 +1,9 @@
+package com.lidi.cursomc.domain;
+
+public class Cidade {
+	
+	private Integer id;
+	private String nome;
+	private Estado estado;
+
+}
