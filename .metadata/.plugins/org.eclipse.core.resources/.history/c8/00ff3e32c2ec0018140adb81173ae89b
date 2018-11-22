@@ -1,0 +1,13 @@
+package com.lidi.cursomc.domain;
+
+import com.lidi.cursomc.domain.enums.TipoCliente;
+
+public class Cliente {
+	
+	private Integer id;
+	private String nome;
+	private String email;
+	private String cpfOucnpj;
+	private TipoCliente tipo;
+
+}
