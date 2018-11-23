@@ -1,0 +1,10 @@
+package com.lidi.cursomc.domain;
+
+import com.lidi.cursomc.domain.enums.EstadoPagamento;
+
+public class Pagamento {
+	
+	private Integer id;
+	private EstadoPagamento estado;
+
+}

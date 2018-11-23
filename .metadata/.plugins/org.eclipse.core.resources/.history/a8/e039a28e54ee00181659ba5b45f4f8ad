@@ -1,0 +1,16 @@
+package com.lidi.cursomc.domain;
+
+import com.lidi.cursomc.domain.enums.EstadoPagamento;
+
+public class PagamentoComBoleto extends Pagamento {
+
+	public PagamentoComBoleto() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public PagamentoComBoleto(Integer id, EstadoPagamento estado, Pedido pedido) {
+		super(id, estado, pedido);
+		// TODO Auto-generated constructor stub
+	}
+
+}

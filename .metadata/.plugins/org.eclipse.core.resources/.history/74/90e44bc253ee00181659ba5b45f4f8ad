@@ -1,0 +1,32 @@
+package com.lidi.cursomc.domain;
+
+import java.util.Date;
+
+public class Pedido {
+	
+	private Integer id;
+	private Date instante;
+	
+	private Endereco enderecoDeEntrega;
+	
+	private Cliente cliente;
+	
+	private Pagamento pagamento;
+	
+	public Pedido() {
+		
+	}
+
+	public Pedido(Integer id, Date instante, Endereco enderecoDeEntrega, Cliente cliente, Pagamento pagamento) {
+		super();
+		this.id = id;
+		this.instante = instante;
+		this.enderecoDeEntrega = enderecoDeEntrega;
+		this.cliente = cliente;
+		this.pagamento = pagamento;
+	}
+	
+	
+	
+
+}
